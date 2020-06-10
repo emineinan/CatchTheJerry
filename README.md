@@ -1,2 +1,2 @@
-# CatchTheJerry
- A simple android game made using grid layout.
+# CatchtheJerry
+ A simple android game.
